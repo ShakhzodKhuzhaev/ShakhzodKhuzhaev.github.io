@@ -92,6 +92,9 @@ ul {
     .container {
         min-height: 70px;
     }
+    .header{
+            background-color: #e6e6e6;
+    }
 }
 
 @media (max-width:997px) {
